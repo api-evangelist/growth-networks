@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Growth Networks is a company surfaced as a portfolio company of lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: lightspeed-venture-partners
+Growth Networks was a networking-silicon startup founded in the late 1990s that developed a new category of switching hardware it branded Internet Switching Fabrics — scalable, multi-service capacity silicon for high-speed network switches and routers. Backed by Lightspeed Venture Partners (co-founded by Barry Eggers), the company was acquired by Cisco Systems in 2000 and folded into Cisco's core routing and switching business. It operates no independent developer platform or public API today; this profile is retained as a venture-portfolio historical record rather than an active API provider.
+
+**Areas:** Company · Networking · Semiconductors · Switching Silicon · Networking Hardware · Acquired · Cisco
+
+## Growth Networks on APIs.io (historical record)
+
+Everything profiled for Growth Networks is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/growth-networks/](https://apis.io/providers/growth-networks/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Growth Networks: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/growth-networks/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
